@@ -18,11 +18,18 @@ I'm interested in the engineering decisions behind dependable mobile products: c
 
 ### Pocket Catalog — Flutter architecture lab
 
-An original, interactive demo exploring dependable mobile experiences: cache-first reads, safe refresh, request deduplication, and protection against out-of-order search results. Includes behavioral tests and documented architecture decisions.
+An original Flutter showcase of resilient mobile architecture: predictable state, clear service boundaries, and useful content even when requests fail.
 
-**[Try the live demo →](https://ramysaleeb.github.io/flutter-mobile-architecture-lab/)** · [Explore the code and architecture](https://github.com/RamySaleeb/flutter-mobile-architecture-lab)
+**[Try the live demo →](https://ramysaleeb.github.io/flutter-mobile-architecture-lab/)** · [Explore the code and walkthrough](https://github.com/RamySaleeb/flutter-mobile-architecture-lab)
 
-Runs in your browser with fictional products and a simulated service. No installation or sign-in required.
+- **Resilient reads:** cache-first loading, safe refresh, shared requests, and tested freshness across TTL boundaries and clock rollback.
+- **Request-race demo:** watch a newer search win when an older request finishes or fails later; reset safely during a request.
+- **Accessibility improvements:** keyboard navigation, visible focus, accessible control/status labels, and layouts tested at 320 logical pixels with 2× text.
+- **Optional HTTP adapter:** typed failures, an 8-second deadline, strict JSON validation, and session-owned cancellation that protects shared callers.
+
+**64 passing automated tests**, with [green CI for formatting, analysis, tests, and the release web build](https://github.com/RamySaleeb/flutter-mobile-architecture-lab/actions/runs/38242452748). Real HTTP smoke checks also passed on the Dart VM and a browser; native Android/iOS transport testing remains a separate follow-up.
+
+The public demo uses fictional products and a simulated service—no installation, sign-in, API keys, or catalog backend required. HTTP is an opt-in adapter with local fixtures. [Architecture decisions](https://github.com/RamySaleeb/flutter-mobile-architecture-lab/tree/main/docs/decisions) and a [contribution guide](https://github.com/RamySaleeb/flutter-mobile-architecture-lab/blob/main/CONTRIBUTING.md) explain the tradeoffs and how to extend the lab.
 
 ### Trail Pack — native Android architecture lab
 
