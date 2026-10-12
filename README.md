@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ramy Saleeb
 
-<!--
-**RamySaleeb/RamySaleeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile Engineering · Android · iOS · Flutter**
 
-Here are some ideas to get you started:
+I'm a mobile developer with experience across native Android, native iOS, and Flutter applications. My professional work includes healthcare, commerce, and field-team workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in the engineering decisions behind dependable mobile products: clear architecture, maintainable code, and a thoughtful user experience.
+
+## Mobile development
+
+| Platform | Technologies |
+| --- | --- |
+| Android | Kotlin, Java |
+| iOS | Swift |
+| Cross-platform | Flutter |
+
+## Selected professional work
+
+- **Yourparts — Android:** automotive commerce and service-booking workflows.
+- **Se7etak — Android and iOS:** patient and doctor applications for remote consultations and appointment management.
+- **EVA Rx — Flutter:** a physician application for medical information and professional communication.
+- **Tacitapp — Android and iOS:** field-team reporting and visit-planning applications.
+
+These are professional project references, not open-source repositories. Details are available on my [LinkedIn profile](https://www.linkedin.com/in/ramy-saleeb/).
+
+## Connect
+
+Interested in discussing mobile architecture, Android, iOS, or Flutter? [Connect with me on LinkedIn](https://www.linkedin.com/in/ramy-saleeb/).
