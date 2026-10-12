@@ -49,6 +49,14 @@ An original offline field journal exploring native iOS architecture: SwiftUI nav
 
 **Quick walkthrough:** open the project in Xcode, search the sample notes, favorite an entry, create a note, and relaunch to see local persistence. See the repository for exact Xcode and simulator requirements. This is a native iOS demo; it does not run in a browser.
 
+### Slot Studio — Python / Django booking lab
+
+An original web demo with room availability, reservations, cancellation, and database-enforced double-booking prevention. Try two competing requests for one slot in your own anonymous sandbox.
+
+**[Try the booking demo →](https://slot-studio-ramy.onrender.com)** · [Explore the Django source](https://github.com/RamySaleeb/django-booking-lab)
+
+Includes 13 automated tests, a server-rendered interface, and a contribution guide. All rooms are fictional; demo reservations reset on server restarts.
+
 ## Selected professional work
 
 - **Yourparts — Android:** automotive commerce and service-booking workflows.
@@ -61,3 +69,4 @@ These are professional project references, not open-source repositories. Details
 ## Connect
 
 Interested in discussing mobile architecture, Android, iOS, or Flutter? [Connect with me on LinkedIn](https://www.linkedin.com/in/ramy-saleeb/).
+
