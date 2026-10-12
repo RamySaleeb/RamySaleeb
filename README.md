@@ -24,6 +24,24 @@ An original, interactive demo exploring dependable mobile experiences: cache-fir
 
 Runs in your browser with fictional products and a simulated service. No installation or sign-in required.
 
+### Trail Pack — native Android architecture lab
+
+An original Kotlin and Jetpack Compose checklist demonstrating durable offline storage, lifecycle-aware state, atomic updates, and recovery from save failures. Includes unit and Android device tests.
+
+**[Explore the native Android demo →](https://github.com/RamySaleeb/android-native-architecture-lab)**
+
+Runs on Android 8.0+ with fictional sample data. No account or backend required.
+
+### Trail Notes — native iOS with SwiftUI
+
+An original offline field journal exploring native iOS architecture: SwiftUI navigation, searchable notes, favorites, actor-backed persistence, and Swift Testing. Includes an Xcode project and four core behavior tests.
+
+**[Explore the Swift source →](https://github.com/RamySaleeb/trail-notes-ios)** · [Setup and full walkthrough](https://github.com/RamySaleeb/trail-notes-ios#walkthrough)
+
+<a href="https://github.com/RamySaleeb/trail-notes-ios"><img src="https://raw.githubusercontent.com/RamySaleeb/trail-notes-ios/main/preview.png" width="260" alt="Trail Notes native iOS demo showing fictional saved field notes and the favorites filter"></a>
+
+**Quick walkthrough:** open the project in Xcode, search the sample notes, favorite an entry, create a note, and relaunch to see local persistence. See the repository for exact Xcode and simulator requirements. This is a native iOS demo; it does not run in a browser.
+
 ## Selected professional work
 
 - **Yourparts — Android:** automotive commerce and service-booking workflows.
