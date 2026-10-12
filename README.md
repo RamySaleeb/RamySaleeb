@@ -35,9 +35,9 @@ The public demo uses fictional products and a simulated service—no installatio
 
 An original Kotlin and Jetpack Compose checklist demonstrating durable offline storage, lifecycle-aware state, atomic updates, and recovery from save failures. Includes unit and Android device tests.
 
-**[Explore the native Android demo →](https://github.com/RamySaleeb/android-native-architecture-lab)**
+**[Try the browser demo →](https://ramysaleeb.github.io/android-native-architecture-lab/)** · [Explore the Kotlin source](https://github.com/RamySaleeb/android-native-architecture-lab)
 
-Runs on Android 8.0+ with fictional sample data. No account or backend required.
+The native app runs on Android 8.0+. The browser companion lets visitors try packing, filters, saved selections, and save-failure recovery without installation or sign-in. It uses separate local browser storage and fictional sample data.
 
 ### Trail Notes — native iOS with SwiftUI
 
