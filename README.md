@@ -63,7 +63,7 @@ An original .NET 10 showcase with a browser dashboard for queued orders, bounded
 
 **[Explore the C# source and local setup →](https://github.com/RamySaleeb/dotnet-orderflow)** · [Contributor roadmap](https://github.com/RamySaleeb/dotnet-orderflow/issues) · [Contribution guide](https://github.com/RamySaleeb/dotnet-orderflow/blob/main/CONTRIBUTING.md)
 
-Includes 16 automated tests and GitHub Actions checks. Run it locally to watch successful delivery, temporary failures that recover, and exhausted retries. Repeating a request demonstrates duplicate-job prevention. Fulfillment is simulated, orders are held in memory, and no public deployment is available.
+Includes 18 automated tests and GitHub Actions checks, including deterministic retry timing and cancellation during backoff. Run it locally to watch successful delivery, temporary failures that recover, and exhausted retries. Repeating a request demonstrates duplicate-job prevention. Fulfillment is simulated, orders are held in memory, and no public deployment is available.
 
 ## Selected professional work
 
