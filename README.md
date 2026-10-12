@@ -57,6 +57,14 @@ An original web demo with room availability, reservations, cancellation, and dat
 
 Includes 13 automated tests, a server-rendered interface, and a contribution guide. All rooms are fictional; demo reservations reset on server restarts.
 
+### OrderFlow — ASP.NET Core background jobs lab
+
+An original .NET 10 showcase with a browser dashboard for queued orders, bounded background processing, retry recovery, and idempotent submissions.
+
+**[Explore the C# source and local setup →](https://github.com/RamySaleeb/dotnet-orderflow)** · [Contributor roadmap](https://github.com/RamySaleeb/dotnet-orderflow/issues) · [Contribution guide](https://github.com/RamySaleeb/dotnet-orderflow/blob/main/CONTRIBUTING.md)
+
+Includes 16 automated tests and GitHub Actions checks. Run it locally to watch successful delivery, temporary failures that recover, and exhausted retries. Repeating a request demonstrates duplicate-job prevention. Fulfillment is simulated, orders are held in memory, and no public deployment is available.
+
 ## Selected professional work
 
 - **Yourparts — Android:** automotive commerce and service-booking workflows.
@@ -69,4 +77,5 @@ These are professional project references, not open-source repositories. Details
 ## Connect
 
 Interested in discussing mobile architecture, Android, iOS, or Flutter? [Connect with me on LinkedIn](https://www.linkedin.com/in/ramy-saleeb/).
+
 
