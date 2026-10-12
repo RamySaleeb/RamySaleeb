@@ -14,6 +14,16 @@ I'm interested in the engineering decisions behind dependable mobile products: c
 | iOS | Swift |
 | Cross-platform | Flutter |
 
+## Open-source showcase
+
+### Pocket Catalog — Flutter architecture lab
+
+An original, interactive demo exploring dependable mobile experiences: cache-first reads, safe refresh, request deduplication, and protection against out-of-order search results. Includes behavioral tests and documented architecture decisions.
+
+**[Try the live demo →](https://ramysaleeb.github.io/flutter-mobile-architecture-lab/)** · [Explore the code and architecture](https://github.com/RamySaleeb/flutter-mobile-architecture-lab)
+
+Runs in your browser with fictional products and a simulated service. No installation or sign-in required.
+
 ## Selected professional work
 
 - **Yourparts — Android:** automotive commerce and service-booking workflows.
